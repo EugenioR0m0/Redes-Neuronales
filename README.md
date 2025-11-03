@@ -6,6 +6,12 @@ El objetivo es comprender el funcionamiento de las redes neuronales profundas, s
 
 ---
 
+## Enlaces a los archivos
+- [Ver notebook en formato HTML (Redes.html)](Redes.html)  
+- [Descargar notebook original (Redes.ipynb)](Redes.ipynb)
+
+---
+
 ## Objetivos del proyecto
 1. Implementar una red neuronal multicapa utilizando **TensorFlow/Keras**.  
 2. Entrenar y validar el modelo con el dataset **MNIST**.  
